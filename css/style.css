@@ -47,7 +47,7 @@ td{
 }
 .left{
 	margin-bottom:40px;	
-	margin-top: 40px;
+	padding-top: 10px;
 }
 .all{
 	display: inline-block;
@@ -92,8 +92,9 @@ height: 70px;
 	color:#A4A4A4;
 }
 .presentation{
-	background-color:#FACC2E;
-	height: 250px;
+	background-color:#e0b637;
+	height: 280px;
+	padding-top: 20px;
 }
 .blanco{
 	background-color: white;
@@ -127,11 +128,11 @@ height: 70px;
 	padding: 20px;
 }
 .fa-youtube-play{
-	background: #DBA901;
+	background: #e0b636;
 	color:white;
 }
 .fa-ticket{
-	background-color: #DF7401;
+	background-color: #bc7b29;
 	color:white;
 }
 .bottom{
@@ -144,12 +145,12 @@ height: 70px;
 }
 .trailer{
 	text-decoration: none;
-	background-color: #DBA901;
+	background-color: #e0b636;
 	font-size: 14px;
 }
 .ticket{
 	text-decoration:none;
-    background-color:#DF7401;
+    background-color:#BC7B29;
     font-size: 14px;
 }
 .reference{
@@ -193,6 +194,8 @@ span .information{
 }
 .more{
 	margin:20px;
+	font-size: verdana;
+	font-weight: bold;
 }
 .get{
 	color: #DF7401;
@@ -203,19 +206,15 @@ table{
 }
 .superior{
 	background: rgba(254,254,254,1);
-    background: -webkit-linear-gradient(left, rgba(254,254,254,1) 0%, rgba(230,230,230,1) 77%, rgba(230,230,230,1) 100%);
-    background: -o-linear-gradient(left, rgba(254,254,254,1) 0%, rgba(230,230,230,1) 77%, rgba(230,230,230,1) 100%);
-    background: linear-gradient(to right, rgba(254,254,254,1) 0%, rgba(230,230,230,1) 77%, rgba(230,230,230,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', endColorstr='#e6e6e6', GradientType=1 );
-	height: 80px;
+    height: 80px;
 }
 .icon-search {
     height:35px;
     width:250px;
-    border: 2px solid #BDBDBD;
+    border: 2px solid #B6B6B6;
     cursor: pointer;
     color:#BDBDBD;
-    background-color:#D8D8D8;
+    background-color:#F5F5F5;
     position:relative;
     padding: 4px;
     text-align: left;
